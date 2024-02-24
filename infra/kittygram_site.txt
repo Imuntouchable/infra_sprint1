@@ -1,0 +1,5 @@
+IP: 84.201.164.156;
+name_taski: https://taskit.zapto.org/;
+name_kittygram: https://teryllosite.sytes.net/;
+login: Sanya;
+password: Sasa.123321;
